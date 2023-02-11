@@ -1,1 +1,6 @@
 this is a github learning session
+this is a learning for both sessions as well as the 
+development
+this is new addition to the demo.txt file
+
+repeat step 4 to step 8
